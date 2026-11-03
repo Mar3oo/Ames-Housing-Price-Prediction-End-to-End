@@ -1,0 +1,15 @@
+# DVC cache and local storage
+.dvc/cache/
+
+# MLflow
+mlflow.db
+mlflow.db-shm
+mlflow.db-wal
+mlartifacts/
+
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.pytest-tmp/
