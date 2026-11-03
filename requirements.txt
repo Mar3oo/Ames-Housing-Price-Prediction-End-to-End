@@ -16,3 +16,4 @@ streamlit
 requests
 matplotlib
 seaborn
+mlflow
